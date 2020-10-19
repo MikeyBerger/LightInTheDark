@@ -143,11 +143,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 11bc07424ced9441c8086731dff37bc5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  PlayerSpeed: 50
+  PlayerSpeed: 60
   LightSpeed: 5
-  JumpForce: 500
+  JumpForce: 1000
   IsJumping: 0
   IsGrounded: 0
+  FacingRight: 1
 --- !u!61 &6793856322499954524
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -194,7 +195,7 @@ Rigidbody2D:
   m_Interpolate: 0
   m_SleepingMode: 1
   m_CollisionDetection: 0
-  m_Constraints: 4
+  m_Constraints: 0
 --- !u!1 &5247576731607142749
 GameObject:
   m_ObjectHideFlags: 0
