@@ -11,7 +11,10 @@ public class PlayerController : MonoBehaviour
     Vector2 LightMovement;
     public float PlayerSpeed;
     public float LightSpeed;
+    public float JumpForce;
     public bool IsJumping;
+    public bool IsGrounded;
+    public bool FacingRight = true;
     private Rigidbody2D RB;
     private Transform Light;
     private Animator Anim;
@@ -37,11 +40,12 @@ public class PlayerController : MonoBehaviour
         AnimatePlayer();
         MoveLight();
         Flip();
+        Jump();
     }
 
     void AnimatePlayer()
     {
-        if (PlayerMovement.x > 0 || PlayerMovement.x < 0)
+        if (PlayerMovement.x > 0  && IsGrounded || PlayerMovement.x < 0 && IsGrounded)
         {
             Anim.SetBool("IsMoving", true);
         }
@@ -60,19 +64,41 @@ public class PlayerController : MonoBehaviour
     {
         Vector3 Scale = transform.localScale;
 
-        if(PlayerMovement.x > 0)
+        if(PlayerMovement.x > 0 && !FacingRight || PlayerMovement.x < 0 && FacingRight)
         {
-            Scale.x = 1;
-        }
-        else if (PlayerMovement.x < 0)
-        {
-            Scale.x = -1;
+            FacingRight = !FacingRight;
+            Scale.x *= -1;
         }
 
         transform.localScale = Scale;
     }
 
+    void Jump()
+    {
+        if (IsJumping && IsGrounded)
+        {
+            RB.AddForce(new Vector2(0, JumpForce));
+            IsJumping = false;
+        }
+    }
 
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+        if (collision.gameObject.tag == "Ground")
+        {
+            IsGrounded = true;
+            Anim.SetBool("IsJumping", false);
+        }
+    }
+
+    private void OnCollisionExit2D(Collision2D collision)
+    {
+        if (collision.gameObject.tag == "Ground")
+        {
+            IsGrounded = false;
+            Anim.SetBool("IsJumping", true);
+        }
+    }
 
     #region InputActions
     public void OnPlayerMove(InputAction.CallbackContext ctx)
