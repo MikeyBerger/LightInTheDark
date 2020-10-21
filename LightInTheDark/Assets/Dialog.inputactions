@@ -1,0 +1,44 @@
+{
+    "name": "Dialog",
+    "maps": [
+        {
+            "name": "DialogMap",
+            "id": "0fee3477-ac6f-4c81-ab57-dbc3e5f75f47",
+            "actions": [
+                {
+                    "name": "ChangeDialog",
+                    "type": "Button",
+                    "id": "eba174a7-c8c2-4a9b-91ab-c8e20464ab76",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "4cb85d3b-2635-4773-a8d3-0da05a64cba1",
+                    "path": "<Keyboard>/space",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "ChangeDialog",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "e9f79f5d-28c9-4ed3-b573-659dc1f7928c",
+                    "path": "<Gamepad>/buttonSouth",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "ChangeDialog",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
