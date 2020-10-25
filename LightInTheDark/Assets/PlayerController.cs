@@ -35,7 +35,16 @@ public class PlayerController : MonoBehaviour
 
     private void FixedUpdate()
     {
-        RB.velocity = new Vector2(PlayerMovement.x, 0) * PlayerSpeed * Time.deltaTime;
+
+        if (IsGrounded)
+        {
+            RB.velocity = new Vector2(PlayerMovement.x, 0) * PlayerSpeed * Time.deltaTime;
+        }
+        else if (!IsGrounded)
+        {
+            RB.velocity = new Vector2(PlayerMovement.x, PlayerMovement.y) * PlayerSpeed * Time.deltaTime;
+        }
+        
 
         AnimatePlayer();
         MoveLight();
@@ -77,7 +86,7 @@ public class PlayerController : MonoBehaviour
     {
         if (IsJumping && IsGrounded)
         {
-            RB.AddForce(new Vector2(0, JumpForce));
+            RB.AddForce(new Vector2(PlayerMovement.x, JumpForce));
             IsJumping = false;
         }
     }

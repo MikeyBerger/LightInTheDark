@@ -1,0 +1,1640 @@
+fileFormatVersion: 2
+guid: 9121c3a2c378b44199e13dd70640cdb1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7334839037514044773
+    second: vector-stone-platformer-tiles-set-260nw-396761512_0
+  - first:
+      213: 8682333918054482347
+    second: vector-stone-platformer-tiles-set-260nw-396761512_1
+  - first:
+      213: -5085328696350175230
+    second: vector-stone-platformer-tiles-set-260nw-396761512_2
+  - first:
+      213: -1443736751200333994
+    second: vector-stone-platformer-tiles-set-260nw-396761512_3
+  - first:
+      213: 7244960541997103526
+    second: vector-stone-platformer-tiles-set-260nw-396761512_4
+  - first:
+      213: -5227193887701481987
+    second: vector-stone-platformer-tiles-set-260nw-396761512_5
+  - first:
+      213: -720667058244030739
+    second: vector-stone-platformer-tiles-set-260nw-396761512_6
+  - first:
+      213: 1934076303131681841
+    second: vector-stone-platformer-tiles-set-260nw-396761512_7
+  - first:
+      213: -4296861698949628735
+    second: vector-stone-platformer-tiles-set-260nw-396761512_8
+  - first:
+      213: -5091081767648785566
+    second: vector-stone-platformer-tiles-set-260nw-396761512_9
+  - first:
+      213: 7281671666373487896
+    second: vector-stone-platformer-tiles-set-260nw-396761512_10
+  - first:
+      213: 1559696100660449136
+    second: vector-stone-platformer-tiles-set-260nw-396761512_11
+  - first:
+      213: 2654698970715118582
+    second: vector-stone-platformer-tiles-set-260nw-396761512_12
+  - first:
+      213: -2924729223053889352
+    second: vector-stone-platformer-tiles-set-260nw-396761512_13
+  - first:
+      213: -6582855207907872172
+    second: vector-stone-platformer-tiles-set-260nw-396761512_14
+  - first:
+      213: -117486708704024317
+    second: vector-stone-platformer-tiles-set-260nw-396761512_15
+  - first:
+      213: 5874081659078027800
+    second: vector-stone-platformer-tiles-set-260nw-396761512_16
+  - first:
+      213: 7429960377551653622
+    second: vector-stone-platformer-tiles-set-260nw-396761512_17
+  - first:
+      213: 3456132067326074132
+    second: vector-stone-platformer-tiles-set-260nw-396761512_18
+  - first:
+      213: 8758407236076922535
+    second: vector-stone-platformer-tiles-set-260nw-396761512_19
+  - first:
+      213: -7499677920129156255
+    second: vector-stone-platformer-tiles-set-260nw-396761512_20
+  - first:
+      213: 5416945205175506051
+    second: vector-stone-platformer-tiles-set-260nw-396761512_21
+  - first:
+      213: -1632137536518935622
+    second: vector-stone-platformer-tiles-set-260nw-396761512_22
+  - first:
+      213: 6217013263590479472
+    second: vector-stone-platformer-tiles-set-260nw-396761512_23
+  - first:
+      213: 2735671781000458256
+    second: vector-stone-platformer-tiles-set-260nw-396761512_24
+  - first:
+      213: -1270553977217837664
+    second: vector-stone-platformer-tiles-set-260nw-396761512_25
+  - first:
+      213: -8532667561955995312
+    second: vector-stone-platformer-tiles-set-260nw-396761512_26
+  - first:
+      213: -2622803895766941421
+    second: vector-stone-platformer-tiles-set-260nw-396761512_27
+  - first:
+      213: -4475007043700180069
+    second: vector-stone-platformer-tiles-set-260nw-396761512_28
+  - first:
+      213: 76584781088502225
+    second: vector-stone-platformer-tiles-set-260nw-396761512_29
+  - first:
+      213: -5393638596335726395
+    second: vector-stone-platformer-tiles-set-260nw-396761512_30
+  - first:
+      213: 8015424163399724269
+    second: vector-stone-platformer-tiles-set-260nw-396761512_31
+  - first:
+      213: -4896136726451084334
+    second: vector-stone-platformer-tiles-set-260nw-396761512_32
+  - first:
+      213: 443782769610191302
+    second: vector-stone-platformer-tiles-set-260nw-396761512_33
+  - first:
+      213: 5926741430838966434
+    second: vector-stone-platformer-tiles-set-260nw-396761512_34
+  - first:
+      213: 7652708191225668829
+    second: vector-stone-platformer-tiles-set-260nw-396761512_35
+  - first:
+      213: -4985382791010716490
+    second: vector-stone-platformer-tiles-set-260nw-396761512_36
+  - first:
+      213: 8268413465292796051
+    second: vector-stone-platformer-tiles-set-260nw-396761512_37
+  - first:
+      213: 7664924097026584039
+    second: vector-stone-platformer-tiles-set-260nw-396761512_38
+  - first:
+      213: -5773153951123011677
+    second: vector-stone-platformer-tiles-set-260nw-396761512_39
+  - first:
+      213: 3046291343028544697
+    second: vector-stone-platformer-tiles-set-260nw-396761512_40
+  - first:
+      213: 2257783788874827037
+    second: vector-stone-platformer-tiles-set-260nw-396761512_41
+  - first:
+      213: 352216040872143820
+    second: vector-stone-platformer-tiles-set-260nw-396761512_42
+  - first:
+      213: -7815722156640447954
+    second: vector-stone-platformer-tiles-set-260nw-396761512_43
+  - first:
+      213: -4601962707453333513
+    second: vector-stone-platformer-tiles-set-260nw-396761512_44
+  - first:
+      213: 2636082007609291991
+    second: vector-stone-platformer-tiles-set-260nw-396761512_45
+  - first:
+      213: -282538158785787236
+    second: vector-stone-platformer-tiles-set-260nw-396761512_46
+  - first:
+      213: -6922368735731939701
+    second: vector-stone-platformer-tiles-set-260nw-396761512_47
+  - first:
+      213: 3302962351488623682
+    second: vector-stone-platformer-tiles-set-260nw-396761512_48
+  - first:
+      213: 2587971750555387473
+    second: vector-stone-platformer-tiles-set-260nw-396761512_49
+  - first:
+      213: 4952272987896686737
+    second: vector-stone-platformer-tiles-set-260nw-396761512_50
+  - first:
+      213: 118373161923917539
+    second: vector-stone-platformer-tiles-set-260nw-396761512_51
+  - first:
+      213: -2110022867511498351
+    second: vector-stone-platformer-tiles-set-260nw-396761512_52
+  - first:
+      213: -5294871340756286980
+    second: vector-stone-platformer-tiles-set-260nw-396761512_53
+  - first:
+      213: 4519797337105665056
+    second: vector-stone-platformer-tiles-set-260nw-396761512_54
+  - first:
+      213: -6110118851854871570
+    second: vector-stone-platformer-tiles-set-260nw-396761512_55
+  - first:
+      213: 155991005311186037
+    second: vector-stone-platformer-tiles-set-260nw-396761512_56
+  - first:
+      213: 1222064736500570510
+    second: vector-stone-platformer-tiles-set-260nw-396761512_57
+  - first:
+      213: -6320378097169513012
+    second: vector-stone-platformer-tiles-set-260nw-396761512_58
+  - first:
+      213: -3362557464963345160
+    second: vector-stone-platformer-tiles-set-260nw-396761512_59
+  - first:
+      213: -5357622889469576200
+    second: vector-stone-platformer-tiles-set-260nw-396761512_60
+  - first:
+      213: 6109735828421941846
+    second: vector-stone-platformer-tiles-set-260nw-396761512_61
+  - first:
+      213: -4954580383978168855
+    second: vector-stone-platformer-tiles-set-260nw-396761512_62
+  - first:
+      213: -4017768749142993997
+    second: vector-stone-platformer-tiles-set-260nw-396761512_63
+  - first:
+      213: 8911105759370287237
+    second: vector-stone-platformer-tiles-set-260nw-396761512_64
+  - first:
+      213: 4321051996713494439
+    second: vector-stone-platformer-tiles-set-260nw-396761512_65
+  - first:
+      213: -7705203119281325381
+    second: vector-stone-platformer-tiles-set-260nw-396761512_66
+  - first:
+      213: 3534881471638697033
+    second: vector-stone-platformer-tiles-set-260nw-396761512_67
+  - first:
+      213: 8518738755934751538
+    second: vector-stone-platformer-tiles-set-260nw-396761512_68
+  - first:
+      213: 5616195916669600938
+    second: vector-stone-platformer-tiles-set-260nw-396761512_69
+  - first:
+      213: 3844888676419955673
+    second: vector-stone-platformer-tiles-set-260nw-396761512_70
+  - first:
+      213: 4245877298067850923
+    second: vector-stone-platformer-tiles-set-260nw-396761512_71
+  - first:
+      213: -6203048333169990011
+    second: vector-stone-platformer-tiles-set-260nw-396761512_72
+  - first:
+      213: -6856059424169037177
+    second: vector-stone-platformer-tiles-set-260nw-396761512_73
+  - first:
+      213: 8356151544758471071
+    second: vector-stone-platformer-tiles-set-260nw-396761512_74
+  - first:
+      213: 3386654287762777026
+    second: vector-stone-platformer-tiles-set-260nw-396761512_75
+  - first:
+      213: -4038207264263643083
+    second: vector-stone-platformer-tiles-set-260nw-396761512_76
+  - first:
+      213: 6585638939566703092
+    second: vector-stone-platformer-tiles-set-260nw-396761512_77
+  - first:
+      213: 1663307836546846245
+    second: vector-stone-platformer-tiles-set-260nw-396761512_78
+  - first:
+      213: 4024797356225223477
+    second: vector-stone-platformer-tiles-set-260nw-396761512_79
+  - first:
+      213: -2918385203866313724
+    second: vector-stone-platformer-tiles-set-260nw-396761512_80
+  - first:
+      213: -2487980288830783240
+    second: vector-stone-platformer-tiles-set-260nw-396761512_81
+  - first:
+      213: 4465718432943671974
+    second: vector-stone-platformer-tiles-set-260nw-396761512_82
+  - first:
+      213: -360391168124735197
+    second: vector-stone-platformer-tiles-set-260nw-396761512_83
+  - first:
+      213: -9020018825645465183
+    second: vector-stone-platformer-tiles-set-260nw-396761512_84
+  - first:
+      213: -7133558950168170640
+    second: vector-stone-platformer-tiles-set-260nw-396761512_85
+  - first:
+      213: 4582046245237834485
+    second: vector-stone-platformer-tiles-set-260nw-396761512_86
+  - first:
+      213: -2111491916605337780
+    second: vector-stone-platformer-tiles-set-260nw-396761512_87
+  - first:
+      213: 8569789529206328408
+    second: vector-stone-platformer-tiles-set-260nw-396761512_88
+  - first:
+      213: 3936579066344809021
+    second: vector-stone-platformer-tiles-set-260nw-396761512_89
+  - first:
+      213: 8064453905806760746
+    second: vector-stone-platformer-tiles-set-260nw-396761512_90
+  - first:
+      213: -8960582732642667559
+    second: vector-stone-platformer-tiles-set-260nw-396761512_91
+  - first:
+      213: 888583268306663817
+    second: vector-stone-platformer-tiles-set-260nw-396761512_92
+  - first:
+      213: -8843528122196845019
+    second: vector-stone-platformer-tiles-set-260nw-396761512_93
+  - first:
+      213: 8075110970815893672
+    second: vector-stone-platformer-tiles-set-260nw-396761512_94
+  - first:
+      213: -8476143162290038038
+    second: vector-stone-platformer-tiles-set-260nw-396761512_95
+  - first:
+      213: 7458057393192361186
+    second: vector-stone-platformer-tiles-set-260nw-396761512_96
+  - first:
+      213: -2917803962386014403
+    second: vector-stone-platformer-tiles-set-260nw-396761512_97
+  - first:
+      213: 6195167226729989822
+    second: vector-stone-platformer-tiles-set-260nw-396761512_98
+  - first:
+      213: -2027758546907814766
+    second: vector-stone-platformer-tiles-set-260nw-396761512_99
+  - first:
+      213: 2371396879824680644
+    second: vector-stone-platformer-tiles-set-260nw-396761512_100
+  - first:
+      213: -8497730368932447293
+    second: vector-stone-platformer-tiles-set-260nw-396761512_101
+  - first:
+      213: -6621347719975499833
+    second: vector-stone-platformer-tiles-set-260nw-396761512_102
+  - first:
+      213: 7742416877435508315
+    second: vector-stone-platformer-tiles-set-260nw-396761512_103
+  - first:
+      213: 3076703635740351669
+    second: vector-stone-platformer-tiles-set-260nw-396761512_104
+  - first:
+      213: -1932974930993653359
+    second: vector-stone-platformer-tiles-set-260nw-396761512_105
+  - first:
+      213: -6509204197395517457
+    second: vector-stone-platformer-tiles-set-260nw-396761512_106
+  - first:
+      213: 5904863679362599842
+    second: vector-stone-platformer-tiles-set-260nw-396761512_107
+  - first:
+      213: 2693296495623903155
+    second: vector-stone-platformer-tiles-set-260nw-396761512_108
+  - first:
+      213: -8189609030322991091
+    second: vector-stone-platformer-tiles-set-260nw-396761512_109
+  - first:
+      213: 3599496866988331159
+    second: vector-stone-platformer-tiles-set-260nw-396761512_110
+  - first:
+      213: -7351227554680957546
+    second: vector-stone-platformer-tiles-set-260nw-396761512_111
+  - first:
+      213: -9047953802172986950
+    second: vector-stone-platformer-tiles-set-260nw-396761512_112
+  - first:
+      213: 6073833846684687215
+    second: vector-stone-platformer-tiles-set-260nw-396761512_113
+  - first:
+      213: 6108503629981993307
+    second: vector-stone-platformer-tiles-set-260nw-396761512_114
+  - first:
+      213: -9078224114573419148
+    second: vector-stone-platformer-tiles-set-260nw-396761512_115
+  - first:
+      213: 2737028547031894786
+    second: vector-stone-platformer-tiles-set-260nw-396761512_116
+  - first:
+      213: -1288519685387447214
+    second: vector-stone-platformer-tiles-set-260nw-396761512_117
+  - first:
+      213: 5354874864710973143
+    second: vector-stone-platformer-tiles-set-260nw-396761512_118
+  - first:
+      213: 8379118160035361853
+    second: vector-stone-platformer-tiles-set-260nw-396761512_119
+  - first:
+      213: -4811830725959609322
+    second: vector-stone-platformer-tiles-set-260nw-396761512_120
+  - first:
+      213: 8658800944102201990
+    second: vector-stone-platformer-tiles-set-260nw-396761512_121
+  - first:
+      213: -1109027239255442788
+    second: vector-stone-platformer-tiles-set-260nw-396761512_122
+  - first:
+      213: -392951541020675700
+    second: vector-stone-platformer-tiles-set-260nw-396761512_123
+  - first:
+      213: 2845520615700441317
+    second: vector-stone-platformer-tiles-set-260nw-396761512_124
+  - first:
+      213: -1096071673131601287
+    second: vector-stone-platformer-tiles-set-260nw-396761512_125
+  - first:
+      213: 7505837342697474843
+    second: vector-stone-platformer-tiles-set-260nw-396761512_126
+  - first:
+      213: 98082139146723919
+    second: vector-stone-platformer-tiles-set-260nw-396761512_127
+  - first:
+      213: 1007931358000805997
+    second: vector-stone-platformer-tiles-set-260nw-396761512_128
+  - first:
+      213: 393011847404801328
+    second: vector-stone-platformer-tiles-set-260nw-396761512_129
+  - first:
+      213: 8969517560028837576
+    second: vector-stone-platformer-tiles-set-260nw-396761512_130
+  - first:
+      213: 1186652707452210136
+    second: vector-stone-platformer-tiles-set-260nw-396761512_131
+  - first:
+      213: -6694207797425383148
+    second: vector-stone-platformer-tiles-set-260nw-396761512_132
+  - first:
+      213: 4984724490524294541
+    second: vector-stone-platformer-tiles-set-260nw-396761512_133
+  - first:
+      213: 6452990159772945584
+    second: vector-stone-platformer-tiles-set-260nw-396761512_134
+  - first:
+      213: -2054570969383217248
+    second: vector-stone-platformer-tiles-set-260nw-396761512_135
+  - first:
+      213: -6977993049334631851
+    second: vector-stone-platformer-tiles-set-260nw-396761512_136
+  - first:
+      213: -8134959486967550077
+    second: vector-stone-platformer-tiles-set-260nw-396761512_137
+  - first:
+      213: 622961296116814145
+    second: vector-stone-platformer-tiles-set-260nw-396761512_138
+  - first:
+      213: -4335474911691925662
+    second: vector-stone-platformer-tiles-set-260nw-396761512_139
+  - first:
+      213: 1473356842701224825
+    second: vector-stone-platformer-tiles-set-260nw-396761512_140
+  - first:
+      213: 171260273086551514
+    second: vector-stone-platformer-tiles-set-260nw-396761512_141
+  - first:
+      213: -9018556982064636008
+    second: vector-stone-platformer-tiles-set-260nw-396761512_142
+  - first:
+      213: -4952553124388083565
+    second: vector-stone-platformer-tiles-set-260nw-396761512_143
+  - first:
+      213: -755779077327633914
+    second: vector-stone-platformer-tiles-set-260nw-396761512_144
+  - first:
+      213: 5611300033890666767
+    second: vector-stone-platformer-tiles-set-260nw-396761512_145
+  - first:
+      213: -8574917231688402951
+    second: vector-stone-platformer-tiles-set-260nw-396761512_146
+  - first:
+      213: 1277799727086970976
+    second: vector-stone-platformer-tiles-set-260nw-396761512_147
+  - first:
+      213: -6129411316412196564
+    second: vector-stone-platformer-tiles-set-260nw-396761512_148
+  - first:
+      213: 4032614484589496422
+    second: vector-stone-platformer-tiles-set-260nw-396761512_149
+  - first:
+      213: 4741496466240564556
+    second: vector-stone-platformer-tiles-set-260nw-396761512_150
+  - first:
+      213: -5803057939668047861
+    second: vector-stone-platformer-tiles-set-260nw-396761512_151
+  - first:
+      213: 6855554303219648478
+    second: vector-stone-platformer-tiles-set-260nw-396761512_152
+  - first:
+      213: 2449032952979222826
+    second: vector-stone-platformer-tiles-set-260nw-396761512_153
+  - first:
+      213: 606352562396650955
+    second: vector-stone-platformer-tiles-set-260nw-396761512_154
+  - first:
+      213: -3563642791271212590
+    second: vector-stone-platformer-tiles-set-260nw-396761512_155
+  - first:
+      213: -3241600699593192866
+    second: vector-stone-platformer-tiles-set-260nw-396761512_156
+  - first:
+      213: -3139843329344177974
+    second: vector-stone-platformer-tiles-set-260nw-396761512_157
+  - first:
+      213: -79899691322154981
+    second: vector-stone-platformer-tiles-set-260nw-396761512_158
+  - first:
+      213: 7023779195515796686
+    second: vector-stone-platformer-tiles-set-260nw-396761512_159
+  - first:
+      213: -5071064279299620781
+    second: vector-stone-platformer-tiles-set-260nw-396761512_160
+  - first:
+      213: -6961476309429459575
+    second: vector-stone-platformer-tiles-set-260nw-396761512_161
+  - first:
+      213: 4874622283035509312
+    second: vector-stone-platformer-tiles-set-260nw-396761512_162
+  - first:
+      213: 193406955234088661
+    second: vector-stone-platformer-tiles-set-260nw-396761512_163
+  - first:
+      213: -4655049950954433060
+    second: vector-stone-platformer-tiles-set-260nw-396761512_164
+  - first:
+      213: -6120294908967719115
+    second: vector-stone-platformer-tiles-set-260nw-396761512_165
+  - first:
+      213: -5754262835171670589
+    second: vector-stone-platformer-tiles-set-260nw-396761512_166
+  - first:
+      213: 246975843041424448
+    second: vector-stone-platformer-tiles-set-260nw-396761512_167
+  - first:
+      213: 4125952477628392679
+    second: vector-stone-platformer-tiles-set-260nw-396761512_168
+  - first:
+      213: -8277490061767099393
+    second: vector-stone-platformer-tiles-set-260nw-396761512_169
+  - first:
+      213: -4668677032056651193
+    second: vector-stone-platformer-tiles-set-260nw-396761512_170
+  - first:
+      213: 7819603280338157515
+    second: vector-stone-platformer-tiles-set-260nw-396761512_171
+  - first:
+      213: -6828335088411532161
+    second: vector-stone-platformer-tiles-set-260nw-396761512_172
+  - first:
+      213: 3897166549667556885
+    second: vector-stone-platformer-tiles-set-260nw-396761512_173
+  - first:
+      213: -500977641411980847
+    second: vector-stone-platformer-tiles-set-260nw-396761512_174
+  - first:
+      213: 4582867176380377555
+    second: vector-stone-platformer-tiles-set-260nw-396761512_175
+  - first:
+      213: -7757587077570781372
+    second: vector-stone-platformer-tiles-set-260nw-396761512_176
+  - first:
+      213: -2532428989672940910
+    second: vector-stone-platformer-tiles-set-260nw-396761512_177
+  - first:
+      213: -4937559667068967512
+    second: vector-stone-platformer-tiles-set-260nw-396761512_178
+  - first:
+      213: -1355162826768899065
+    second: vector-stone-platformer-tiles-set-260nw-396761512_179
+  - first:
+      213: 6919763553834124199
+    second: vector-stone-platformer-tiles-set-260nw-396761512_180
+  - first:
+      213: -7043732978063418566
+    second: vector-stone-platformer-tiles-set-260nw-396761512_181
+  - first:
+      213: -4704912669238271160
+    second: vector-stone-platformer-tiles-set-260nw-396761512_182
+  - first:
+      213: 2152727243119519734
+    second: vector-stone-platformer-tiles-set-260nw-396761512_183
+  - first:
+      213: 2492620799719984047
+    second: vector-stone-platformer-tiles-set-260nw-396761512_184
+  - first:
+      213: 4727689204709566011
+    second: vector-stone-platformer-tiles-set-260nw-396761512_185
+  - first:
+      213: -8666139763743713670
+    second: vector-stone-platformer-tiles-set-260nw-396761512_186
+  - first:
+      213: 8757650200327813886
+    second: vector-stone-platformer-tiles-set-260nw-396761512_187
+  - first:
+      213: -6341319879613768538
+    second: vector-stone-platformer-tiles-set-260nw-396761512_188
+  - first:
+      213: -756395376998688957
+    second: vector-stone-platformer-tiles-set-260nw-396761512_189
+  - first:
+      213: 1530168023708959805
+    second: vector-stone-platformer-tiles-set-260nw-396761512_190
+  - first:
+      213: -9147007665832855363
+    second: vector-stone-platformer-tiles-set-260nw-396761512_191
+  - first:
+      213: -8402546894885808360
+    second: vector-stone-platformer-tiles-set-260nw-396761512_192
+  - first:
+      213: -5094351900650368760
+    second: vector-stone-platformer-tiles-set-260nw-396761512_193
+  - first:
+      213: 5912896705980466867
+    second: vector-stone-platformer-tiles-set-260nw-396761512_194
+  - first:
+      213: -4424668853799086749
+    second: vector-stone-platformer-tiles-set-260nw-396761512_195
+  - first:
+      213: 2707261349118988628
+    second: vector-stone-platformer-tiles-set-260nw-396761512_196
+  - first:
+      213: -4833306809109043539
+    second: vector-stone-platformer-tiles-set-260nw-396761512_197
+  - first:
+      213: -6470513184667219755
+    second: vector-stone-platformer-tiles-set-260nw-396761512_198
+  - first:
+      213: -8740278333792709006
+    second: vector-stone-platformer-tiles-set-260nw-396761512_199
+  - first:
+      213: 9032757331269619203
+    second: vector-stone-platformer-tiles-set-260nw-396761512_200
+  - first:
+      213: 5071233812820149850
+    second: vector-stone-platformer-tiles-set-260nw-396761512_201
+  - first:
+      213: 9218259634070654338
+    second: vector-stone-platformer-tiles-set-260nw-396761512_202
+  - first:
+      213: -4005387222790214977
+    second: vector-stone-platformer-tiles-set-260nw-396761512_203
+  - first:
+      213: -2385348147783199526
+    second: vector-stone-platformer-tiles-set-260nw-396761512_204
+  - first:
+      213: -5202257205999662060
+    second: vector-stone-platformer-tiles-set-260nw-396761512_205
+  - first:
+      213: 7883163882500818629
+    second: vector-stone-platformer-tiles-set-260nw-396761512_206
+  - first:
+      213: 7894311999629028989
+    second: vector-stone-platformer-tiles-set-260nw-396761512_207
+  - first:
+      213: 2074485173040240006
+    second: vector-stone-platformer-tiles-set-260nw-396761512_208
+  - first:
+      213: -5721034891712751638
+    second: vector-stone-platformer-tiles-set-260nw-396761512_209
+  - first:
+      213: -4219530113743922744
+    second: vector-stone-platformer-tiles-set-260nw-396761512_210
+  - first:
+      213: -6869666795889646075
+    second: vector-stone-platformer-tiles-set-260nw-396761512_211
+  - first:
+      213: -703121618075922596
+    second: vector-stone-platformer-tiles-set-260nw-396761512_212
+  - first:
+      213: -4101727540082199895
+    second: vector-stone-platformer-tiles-set-260nw-396761512_213
+  - first:
+      213: 1260006909088230322
+    second: vector-stone-platformer-tiles-set-260nw-396761512_214
+  - first:
+      213: 2349800380331080611
+    second: vector-stone-platformer-tiles-set-260nw-396761512_215
+  - first:
+      213: 8434066064668646735
+    second: vector-stone-platformer-tiles-set-260nw-396761512_216
+  - first:
+      213: -932399232277686757
+    second: vector-stone-platformer-tiles-set-260nw-396761512_217
+  - first:
+      213: 1400503217216434121
+    second: vector-stone-platformer-tiles-set-260nw-396761512_218
+  - first:
+      213: 7364158961683592055
+    second: vector-stone-platformer-tiles-set-260nw-396761512_219
+  - first:
+      213: -7906208609563894728
+    second: vector-stone-platformer-tiles-set-260nw-396761512_220
+  - first:
+      213: -5388117148012094535
+    second: vector-stone-platformer-tiles-set-260nw-396761512_221
+  - first:
+      213: -6977961730141889631
+    second: vector-stone-platformer-tiles-set-260nw-396761512_222
+  - first:
+      213: 290851681632998426
+    second: vector-stone-platformer-tiles-set-260nw-396761512_223
+  - first:
+      213: 1143066486648076850
+    second: vector-stone-platformer-tiles-set-260nw-396761512_224
+  - first:
+      213: -538305608051410780
+    second: vector-stone-platformer-tiles-set-260nw-396761512_225
+  - first:
+      213: 2532886090557402594
+    second: vector-stone-platformer-tiles-set-260nw-396761512_226
+  - first:
+      213: -3078474171001122805
+    second: vector-stone-platformer-tiles-set-260nw-396761512_227
+  - first:
+      213: 5828908676377822516
+    second: vector-stone-platformer-tiles-set-260nw-396761512_228
+  - first:
+      213: -6509302444004179484
+    second: vector-stone-platformer-tiles-set-260nw-396761512_229
+  - first:
+      213: 950022951268040520
+    second: vector-stone-platformer-tiles-set-260nw-396761512_230
+  - first:
+      213: -1360033429237356231
+    second: vector-stone-platformer-tiles-set-260nw-396761512_231
+  - first:
+      213: -3147711979402909985
+    second: vector-stone-platformer-tiles-set-260nw-396761512_232
+  - first:
+      213: 8518240964702203371
+    second: vector-stone-platformer-tiles-set-260nw-396761512_233
+  - first:
+      213: 1154032744726049781
+    second: vector-stone-platformer-tiles-set-260nw-396761512_234
+  - first:
+      213: -8809098368458396067
+    second: vector-stone-platformer-tiles-set-260nw-396761512_235
+  - first:
+      213: 7080780659198467409
+    second: vector-stone-platformer-tiles-set-260nw-396761512_236
+  - first:
+      213: 7548183759834466970
+    second: vector-stone-platformer-tiles-set-260nw-396761512_237
+  - first:
+      213: 687394252851003811
+    second: vector-stone-platformer-tiles-set-260nw-396761512_238
+  - first:
+      213: 8557933498980022481
+    second: vector-stone-platformer-tiles-set-260nw-396761512_239
+  - first:
+      213: -1209401449943543248
+    second: vector-stone-platformer-tiles-set-260nw-396761512_240
+  - first:
+      213: -7366656660788485161
+    second: vector-stone-platformer-tiles-set-260nw-396761512_241
+  - first:
+      213: -7465682144816123644
+    second: vector-stone-platformer-tiles-set-260nw-396761512_242
+  - first:
+      213: 4541418544291036066
+    second: vector-stone-platformer-tiles-set-260nw-396761512_243
+  - first:
+      213: 4187832833345624605
+    second: vector-stone-platformer-tiles-set-260nw-396761512_244
+  - first:
+      213: 5678830938596920521
+    second: vector-stone-platformer-tiles-set-260nw-396761512_245
+  - first:
+      213: 2065127570358227156
+    second: vector-stone-platformer-tiles-set-260nw-396761512_246
+  - first:
+      213: 1358031599664222178
+    second: vector-stone-platformer-tiles-set-260nw-396761512_247
+  - first:
+      213: 8105536746900421358
+    second: vector-stone-platformer-tiles-set-260nw-396761512_248
+  - first:
+      213: -5335011880072687352
+    second: vector-stone-platformer-tiles-set-260nw-396761512_249
+  - first:
+      213: -8855382580874592870
+    second: vector-stone-platformer-tiles-set-260nw-396761512_250
+  - first:
+      213: 5561505063158032583
+    second: vector-stone-platformer-tiles-set-260nw-396761512_251
+  - first:
+      213: -5738680031749962371
+    second: vector-stone-platformer-tiles-set-260nw-396761512_252
+  - first:
+      213: -2142461053666675918
+    second: vector-stone-platformer-tiles-set-260nw-396761512_253
+  - first:
+      213: 6018360715507145853
+    second: vector-stone-platformer-tiles-set-260nw-396761512_254
+  - first:
+      213: -1611269146506043621
+    second: vector-stone-platformer-tiles-set-260nw-396761512_255
+  - first:
+      213: -2089618439941709532
+    second: vector-stone-platformer-tiles-set-260nw-396761512_256
+  - first:
+      213: -7608823231714375109
+    second: vector-stone-platformer-tiles-set-260nw-396761512_257
+  - first:
+      213: 2892654771325763029
+    second: vector-stone-platformer-tiles-set-260nw-396761512_258
+  - first:
+      213: 4494251695764266153
+    second: vector-stone-platformer-tiles-set-260nw-396761512_259
+  - first:
+      213: 1865181834722861889
+    second: vector-stone-platformer-tiles-set-260nw-396761512_260
+  - first:
+      213: 1478665221966060556
+    second: vector-stone-platformer-tiles-set-260nw-396761512_261
+  - first:
+      213: 890962236262124238
+    second: vector-stone-platformer-tiles-set-260nw-396761512_262
+  - first:
+      213: -2508200034837364248
+    second: vector-stone-platformer-tiles-set-260nw-396761512_263
+  - first:
+      213: -4853980751451600482
+    second: vector-stone-platformer-tiles-set-260nw-396761512_264
+  - first:
+      213: 8109710962848995737
+    second: vector-stone-platformer-tiles-set-260nw-396761512_265
+  - first:
+      213: 3088838742835817009
+    second: vector-stone-platformer-tiles-set-260nw-396761512_266
+  - first:
+      213: -565205860694300599
+    second: vector-stone-platformer-tiles-set-260nw-396761512_267
+  - first:
+      213: 5961816730683877490
+    second: vector-stone-platformer-tiles-set-260nw-396761512_268
+  - first:
+      213: 1249020638038283289
+    second: vector-stone-platformer-tiles-set-260nw-396761512_269
+  - first:
+      213: 7623098702078018969
+    second: vector-stone-platformer-tiles-set-260nw-396761512_270
+  - first:
+      213: -4264592150132227908
+    second: vector-stone-platformer-tiles-set-260nw-396761512_271
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Lumin
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: vector-stone-platformer-tiles-set-260nw-396761512_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 246
+        width: 64
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56551b33e359ac560800000000000000
+      internalID: 7334839037514044773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vector-stone-platformer-tiles-set-260nw-396761512_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 246
+        width: 64
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba186fe82b8dd7870800000000000000
+      internalID: 8682333918054482347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vector-stone-platformer-tiles-set-260nw-396761512_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 246
+        width: 64
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20092ff6e784d69b0800000000000000
+      internalID: -5085328696350175230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vector-stone-platformer-tiles-set-260nw-396761512_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 246
+        width: 64
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65f0783f211d6fbe0800000000000000
+      internalID: -1443736751200333994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vector-stone-platformer-tiles-set-260nw-396761512_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 212
+        width: 64
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a9757d3a354b8460800000000000000
+      internalID: 7244960541997103526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vector-stone-platformer-tiles-set-260nw-396761512_5
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 212
+        width: 64
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df5c57f9ad64577b0800000000000000
+      internalID: -5227193887701481987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vector-stone-platformer-tiles-set-260nw-396761512_6
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 212
+        width: 64
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deee908f02daff5f0800000000000000
+      internalID: -720667058244030739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vector-stone-platformer-tiles-set-260nw-396761512_7
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 212
+        width: 64
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1342aa8862837da10800000000000000
+      internalID: 1934076303131681841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vector-stone-platformer-tiles-set-260nw-396761512_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 178
+        width: 64
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cc3021fc0b7e54c0800000000000000
+      internalID: -4296861698949628735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vector-stone-platformer-tiles-set-260nw-396761512_9
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 178
+        width: 64
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26b83d42b18d859b0800000000000000
+      internalID: -5091081767648785566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vector-stone-platformer-tiles-set-260nw-396761512_10
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 178
+        width: 64
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81de735fcc1bd0560800000000000000
+      internalID: 7281671666373487896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vector-stone-platformer-tiles-set-260nw-396761512_11
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 178
+        width: 64
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07f8d65075725a510800000000000000
+      internalID: 1559696100660449136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vector-stone-platformer-tiles-set-260nw-396761512_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 64
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fbd11f06a267d420800000000000000
+      internalID: 2654698970715118582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vector-stone-platformer-tiles-set-260nw-396761512_13
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 144
+        width: 64
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b03bab74464967d0800000000000000
+      internalID: -2924729223053889352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vector-stone-platformer-tiles-set-260nw-396761512_14
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 144
+        width: 64
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45232dcd01005a4a0800000000000000
+      internalID: -6582855207907872172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vector-stone-platformer-tiles-set-260nw-396761512_15
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 144
+        width: 64
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 309edddf57a9e5ef0800000000000000
+      internalID: -117486708704024317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vector-stone-platformer-tiles-set-260nw-396761512_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 110
+        width: 64
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81aabfe852ee48150800000000000000
+      internalID: 5874081659078027800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vector-stone-platformer-tiles-set-260nw-396761512_17
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 110
+        width: 64
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fa813709958c1760800000000000000
+      internalID: 7429960377551653622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vector-stone-platformer-tiles-set-260nw-396761512_18
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 110
+        width: 64
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41d9ec9cdc5a6ff20800000000000000
+      internalID: 3456132067326074132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vector-stone-platformer-tiles-set-260nw-396761512_19
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 110
+        width: 64
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a663982afc1c8970800000000000000
+      internalID: 8758407236076922535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vector-stone-platformer-tiles-set-260nw-396761512_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 76
+        width: 64
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16b7cd8aaaacbe790800000000000000
+      internalID: -7499677920129156255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vector-stone-platformer-tiles-set-260nw-396761512_21
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 76
+        width: 64
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 384dd32c6fadc2b40800000000000000
+      internalID: 5416945205175506051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vector-stone-platformer-tiles-set-260nw-396761512_22
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 76
+        width: 64
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abb2537de8b7959e0800000000000000
+      internalID: -1632137536518935622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vector-stone-platformer-tiles-set-260nw-396761512_23
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 76
+        width: 64
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 076d334cf94474650800000000000000
+      internalID: 6217013263590479472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vector-stone-platformer-tiles-set-260nw-396761512_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 42
+        width: 64
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 010b7989dfe07f520800000000000000
+      internalID: 2735671781000458256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vector-stone-platformer-tiles-set-260nw-396761512_25
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 42
+        width: 64
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a598ffa3e51e5ee0800000000000000
+      internalID: -1270553977217837664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vector-stone-platformer-tiles-set-260nw-396761512_26
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 42
+        width: 64
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0515d177f00e59980800000000000000
+      internalID: -8532667561955995312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vector-stone-platformer-tiles-set-260nw-396761512_27
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 42
+        width: 64
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3110d45c0cde99bd0800000000000000
+      internalID: -2622803895766941421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vector-stone-platformer-tiles-set-260nw-396761512_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8
+        width: 64
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9b31e8adc495e1c0800000000000000
+      internalID: -4475007043700180069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vector-stone-platformer-tiles-set-260nw-396761512_29
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 8
+        width: 64
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d13bffd375101100800000000000000
+      internalID: 76584781088502225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vector-stone-platformer-tiles-set-260nw-396761512_30
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 8
+        width: 64
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c0929af542f525b0800000000000000
+      internalID: -5393638596335726395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vector-stone-platformer-tiles-set-260nw-396761512_31
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 8
+        width: 64
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dece58f1fc18c3f60800000000000000
+      internalID: 8015424163399724269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
