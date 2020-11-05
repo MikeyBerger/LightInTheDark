@@ -10,7 +10,7 @@ public class SpinningBladeScript : MonoBehaviour
     public float Limit;
     private Rigidbody2D RB;
     public bool IsJumping;
-    public Transform Graphic;
+   // public Transform Graphic;
     
 
     // Start is called before the first frame update
@@ -30,7 +30,7 @@ public class SpinningBladeScript : MonoBehaviour
         
         Vector2 CurrentPos = transform.position;
 
-        Graphic.transform.Rotate(0, 0, SpinSpeed);
+       // Graphic.transform.Rotate(0, 0, SpinSpeed);
         /*
 
         Timer += Time.deltaTime;
@@ -58,12 +58,30 @@ public class SpinningBladeScript : MonoBehaviour
     {
         if (collision.gameObject.tag == "Up")
         {
-            Graphic.transform.Translate(0, -1, 0);
+            transform.Translate(0, -1, 0);
         }
 
         if (collision.gameObject.tag == "Down")
         {
-            Graphic.transform.Translate(0, 1, 0);
+            transform.Translate(0, 1, 0);
+        }
+
+        if (collision.gameObject.tag == "Player")
+        {
+            Destroy(collision.gameObject);
+        }
+    }
+
+    private void OnTriggerStay2D(Collider2D collision)
+    {
+        if (collision.gameObject.tag == "Up")
+        {
+            transform.Translate(0, -1, 0);
+        }
+
+        if (collision.gameObject.tag == "Down")
+        {
+            transform.Translate(0, 1, 0);
         }
 
         if (collision.gameObject.tag == "Player")
