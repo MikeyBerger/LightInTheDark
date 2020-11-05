@@ -6,6 +6,9 @@ TagManager:
   tags:
   - Light
   - Ground
+  - Up
+  - Down
+  - Danger
   layers:
   - Default
   - TransparentFX
