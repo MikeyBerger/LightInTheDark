@@ -12,6 +12,7 @@ public class PlayerController : MonoBehaviour
     public float PlayerSpeed;
     public float LightSpeed;
     public float JumpForce;
+    public float GravityMultiplier;
     public bool IsJumping;
     public bool IsGrounded;
     public bool FacingRight = true;
@@ -42,7 +43,7 @@ public class PlayerController : MonoBehaviour
         }
         else if (!IsGrounded)
         {
-            RB.velocity = new Vector2(PlayerMovement.x, PlayerMovement.y) * PlayerSpeed * Time.deltaTime;
+            RB.velocity = new Vector2(PlayerMovement.x, 0) * PlayerSpeed * Time.deltaTime;
         }
         
 
@@ -97,6 +98,7 @@ public class PlayerController : MonoBehaviour
         {
             IsGrounded = true;
             Anim.SetBool("IsJumping", false);
+            RB.gravityScale = 1;
         }
     }
 
@@ -106,6 +108,15 @@ public class PlayerController : MonoBehaviour
         {
             IsGrounded = false;
             Anim.SetBool("IsJumping", true);
+            RB.gravityScale = RB.gravityScale * GravityMultiplier;
+        }
+    }
+
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        if (collision.gameObject.tag == "Danger")
+        {
+            Destroy(gameObject);
         }
     }
 
