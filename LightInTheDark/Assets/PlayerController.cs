@@ -100,6 +100,11 @@ public class PlayerController : MonoBehaviour
             Anim.SetBool("IsJumping", false);
             RB.gravityScale = 1;
         }
+
+        if (collision.gameObject.tag == "Danger")
+        {
+            Destroy(gameObject);
+        }
     }
 
     private void OnCollisionExit2D(Collision2D collision)
@@ -116,7 +121,7 @@ public class PlayerController : MonoBehaviour
     {
         if (collision.gameObject.tag == "Danger")
         {
-            Destroy(gameObject);
+            Destroy(transform.gameObject);
         }
     }
 

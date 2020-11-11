@@ -4,49 +4,49 @@ TextureImporter:
   internalIDToNameTable:
   - first:
       213: -3850586115736962236
-    second: JBOT_Idle_0
+    second: JBOT-all animations-Sheet 01_0
   - first:
       213: 3979328051798704537
-    second: JBOT_Idle_1
+    second: JBOT-all animations-Sheet 01_1
   - first:
       213: -7890739032560356677
-    second: JBOT_Idle_2
+    second: JBOT-all animations-Sheet 01_2
   - first:
       213: -6004147183596972325
-    second: JBOT_Idle_3
+    second: JBOT-all animations-Sheet 01_3
   - first:
       213: -1922578396673475826
-    second: JBOT_Idle_4
+    second: JBOT-all animations-Sheet 01_4
   - first:
       213: -569249541884788765
-    second: JBOT_Idle_5
+    second: JBOT-all animations-Sheet 01_5
   - first:
       213: 3905557154674822655
-    second: JBOT_Idle_6
+    second: JBOT-all animations-Sheet 01_6
   - first:
       213: -8676304990436417823
-    second: JBOT_Run_0
+    second: JBOT-all animations-Sheet 01_7
   - first:
       213: -7015518523392437055
-    second: JBOT_Run_1
+    second: JBOT-all animations-Sheet 01_8
   - first:
       213: 5579575076606516195
-    second: JBOT_Run_2
+    second: JBOT-all animations-Sheet 01_9
   - first:
       213: 6724843401092822177
-    second: JBOT_Run_3
+    second: JBOT-all animations-Sheet 01_10
   - first:
       213: 2299640729336173799
-    second: JBOT_Run_4
+    second: JBOT-all animations-Sheet 01_11
   - first:
       213: -7480913233160086357
-    second: JBOT_Run_5
+    second: JBOT-all animations-Sheet 01_12
   - first:
       213: -5333249024159418265
-    second: JBOT_Run_6
+    second: JBOT-all animations-Sheet 01_13
   - first:
       213: 582145537313401549
-    second: JBOT_Run_7
+    second: JBOT-all animations-Sheet 01_14
   - first:
       213: 6635689409840593057
     second: JBOT-all animations-Sheet 01_15
@@ -79,58 +79,58 @@ TextureImporter:
     second: JBOT-all animations-Sheet 01_24
   - first:
       213: -4522341154866327969
-    second: JBOT_Jump_0
+    second: JBOT-all animations-Sheet 01_25
   - first:
       213: -1327874048997310153
-    second: JBOT_Jump_1
+    second: JBOT-all animations-Sheet 01_26
   - first:
       213: -2851665754222073942
-    second: JBOT_Jump_2
+    second: JBOT-all animations-Sheet 01_27
   - first:
       213: -6211576802248861441
-    second: JBOT_Jump_3
+    second: JBOT-all animations-Sheet 01_28
   - first:
       213: -2994766363835292736
-    second: JBOT_Jump_4
+    second: JBOT-all animations-Sheet 01_29
   - first:
       213: -7888163331186406646
-    second: JBOT_Climb_0
+    second: JBOT-all animations-Sheet 01_30
   - first:
       213: -5238754280951739344
-    second: JBOT_Climb_1
+    second: JBOT-all animations-Sheet 01_31
   - first:
       213: 405409907206604112
-    second: JBOT_Climb_2
+    second: JBOT-all animations-Sheet 01_32
   - first:
       213: -64382362335886144
-    second: JBOT_Climb_3
+    second: JBOT-all animations-Sheet 01_33
   - first:
       213: 591062041781284294
-    second: JBOT_Die_2
+    second: JBOT-all animations-Sheet 01_34
   - first:
       213: 9001130299324364485
-    second: JBOT_Die_1
+    second: JBOT-all animations-Sheet 01_35
   - first:
       213: 1799579157021005389
-    second: JBOT_Die_0
+    second: JBOT-all animations-Sheet 01_36
   - first:
       213: 8992635227544947794
-    second: JBOT_Die_3
+    second: JBOT-all animations-Sheet 01_37
   - first:
       213: 3287668016705067548
-    second: JBOT_Die_4
+    second: JBOT-all animations-Sheet 01_38
   - first:
       213: -7866971231383297878
-    second: JBOT_Die_5
+    second: JBOT-all animations-Sheet 01_39
   - first:
       213: -3511765503389858244
-    second: JBOT_Die_6
+    second: JBOT-all animations-Sheet 01_40
   - first:
       213: 8547629680531381027
-    second: JBOT_Die_7
+    second: JBOT-all animations-Sheet 01_41
   - first:
       213: 5681480557262341853
-    second: JBOT_Die_8
+    second: JBOT-all animations-Sheet 01_42
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -264,7 +264,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: JBOT_Idle_0
+      name: JBOT-all animations-Sheet 01_0
       rect:
         serializedVersion: 2
         x: 15
@@ -285,7 +285,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: JBOT_Idle_1
+      name: JBOT-all animations-Sheet 01_1
       rect:
         serializedVersion: 2
         x: 67
@@ -306,7 +306,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: JBOT_Idle_2
+      name: JBOT-all animations-Sheet 01_2
       rect:
         serializedVersion: 2
         x: 119
@@ -327,7 +327,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: JBOT_Idle_3
+      name: JBOT-all animations-Sheet 01_3
       rect:
         serializedVersion: 2
         x: 171
@@ -348,7 +348,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: JBOT_Idle_4
+      name: JBOT-all animations-Sheet 01_4
       rect:
         serializedVersion: 2
         x: 223
@@ -369,7 +369,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: JBOT_Idle_5
+      name: JBOT-all animations-Sheet 01_5
       rect:
         serializedVersion: 2
         x: 275
@@ -390,7 +390,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: JBOT_Idle_6
+      name: JBOT-all animations-Sheet 01_6
       rect:
         serializedVersion: 2
         x: 327
@@ -411,7 +411,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: JBOT_Run_0
+      name: JBOT-all animations-Sheet 01_7
       rect:
         serializedVersion: 2
         x: 10
@@ -432,7 +432,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: JBOT_Run_1
+      name: JBOT-all animations-Sheet 01_8
       rect:
         serializedVersion: 2
         x: 61
@@ -453,7 +453,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: JBOT_Run_2
+      name: JBOT-all animations-Sheet 01_9
       rect:
         serializedVersion: 2
         x: 112
@@ -474,7 +474,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: JBOT_Run_3
+      name: JBOT-all animations-Sheet 01_10
       rect:
         serializedVersion: 2
         x: 165
@@ -495,7 +495,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: JBOT_Run_4
+      name: JBOT-all animations-Sheet 01_11
       rect:
         serializedVersion: 2
         x: 220
@@ -516,7 +516,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: JBOT_Run_5
+      name: JBOT-all animations-Sheet 01_12
       rect:
         serializedVersion: 2
         x: 267
@@ -537,7 +537,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: JBOT_Run_6
+      name: JBOT-all animations-Sheet 01_13
       rect:
         serializedVersion: 2
         x: 321
@@ -558,7 +558,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: JBOT_Run_7
+      name: JBOT-all animations-Sheet 01_14
       rect:
         serializedVersion: 2
         x: 374
@@ -789,7 +789,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: JBOT_Jump_0
+      name: JBOT-all animations-Sheet 01_25
       rect:
         serializedVersion: 2
         x: 16
@@ -810,7 +810,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: JBOT_Jump_1
+      name: JBOT-all animations-Sheet 01_26
       rect:
         serializedVersion: 2
         x: 68
@@ -831,7 +831,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: JBOT_Jump_2
+      name: JBOT-all animations-Sheet 01_27
       rect:
         serializedVersion: 2
         x: 120
@@ -852,7 +852,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: JBOT_Jump_3
+      name: JBOT-all animations-Sheet 01_28
       rect:
         serializedVersion: 2
         x: 172
@@ -873,7 +873,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: JBOT_Jump_4
+      name: JBOT-all animations-Sheet 01_29
       rect:
         serializedVersion: 2
         x: 224
@@ -894,7 +894,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: JBOT_Climb_0
+      name: JBOT-all animations-Sheet 01_30
       rect:
         serializedVersion: 2
         x: 15
@@ -915,7 +915,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: JBOT_Climb_1
+      name: JBOT-all animations-Sheet 01_31
       rect:
         serializedVersion: 2
         x: 67
@@ -936,7 +936,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: JBOT_Climb_2
+      name: JBOT-all animations-Sheet 01_32
       rect:
         serializedVersion: 2
         x: 119
@@ -957,7 +957,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: JBOT_Climb_3
+      name: JBOT-all animations-Sheet 01_33
       rect:
         serializedVersion: 2
         x: 171
@@ -978,7 +978,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: JBOT_Die_2
+      name: JBOT-all animations-Sheet 01_34
       rect:
         serializedVersion: 2
         x: 16
@@ -999,7 +999,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: JBOT_Die_1
+      name: JBOT-all animations-Sheet 01_35
       rect:
         serializedVersion: 2
         x: 68
@@ -1020,7 +1020,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: JBOT_Die_0
+      name: JBOT-all animations-Sheet 01_36
       rect:
         serializedVersion: 2
         x: 120
@@ -1041,7 +1041,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: JBOT_Die_3
+      name: JBOT-all animations-Sheet 01_37
       rect:
         serializedVersion: 2
         x: 16
@@ -1062,7 +1062,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: JBOT_Die_4
+      name: JBOT-all animations-Sheet 01_38
       rect:
         serializedVersion: 2
         x: 68
@@ -1083,7 +1083,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: JBOT_Die_5
+      name: JBOT-all animations-Sheet 01_39
       rect:
         serializedVersion: 2
         x: 123
@@ -1104,7 +1104,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: JBOT_Die_6
+      name: JBOT-all animations-Sheet 01_40
       rect:
         serializedVersion: 2
         x: 178
@@ -1125,7 +1125,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: JBOT_Die_7
+      name: JBOT-all animations-Sheet 01_41
       rect:
         serializedVersion: 2
         x: 233
@@ -1146,7 +1146,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: JBOT_Die_8
+      name: JBOT-all animations-Sheet 01_42
       rect:
         serializedVersion: 2
         x: 285

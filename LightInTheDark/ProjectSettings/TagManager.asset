@@ -9,6 +9,7 @@ TagManager:
   - Up
   - Down
   - Danger
+  - Goal
   layers:
   - Default
   - TransparentFX
