@@ -9,7 +9,9 @@ TagManager:
   - Up
   - Down
   - Danger
-  - Goal
+  - Gold
+  - GameMaster
+  - Play
   layers:
   - Default
   - TransparentFX

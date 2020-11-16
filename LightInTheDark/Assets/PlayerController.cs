@@ -1,4 +1,5 @@
-﻿using System.Collections;
+﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.InputSystem;
@@ -19,6 +20,7 @@ public class PlayerController : MonoBehaviour
     private Rigidbody2D RB;
     private Transform Light;
     private Animator Anim;
+    public int Level = 1;
 
     // Start is called before the first frame update
     void Start()
@@ -26,6 +28,7 @@ public class PlayerController : MonoBehaviour
         RB = GetComponent<Rigidbody2D>();
         Light = GameObject.FindGameObjectWithTag("Light").GetComponent<Transform>();
         Anim = GetComponent<Animator>();
+        Level = PlayerPrefs.GetInt("Level", Level);
     }
 
     // Update is called once per frame
@@ -92,7 +95,9 @@ public class PlayerController : MonoBehaviour
         }
     }
 
-    private void OnCollisionEnter2D(Collision2D collision)
+
+
+    public void OnCollisionEnter2D(Collision2D collision)
     {
         if (collision.gameObject.tag == "Ground")
         {
@@ -104,6 +109,12 @@ public class PlayerController : MonoBehaviour
         if (collision.gameObject.tag == "Danger")
         {
             Destroy(gameObject);
+        }
+
+        if (collision.gameObject.tag == "Gold")
+        {
+            Level = Level + 1;
+            PlayerPrefs.SetInt("Level", Level);
         }
     }
 
