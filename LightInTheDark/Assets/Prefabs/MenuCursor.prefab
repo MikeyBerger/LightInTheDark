@@ -189,10 +189,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 447c31eb7e3e34e1a91d31a56cab2d23, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Timer: 1
+  ButtonPressed: 0
+  Timer: 3
   Speed: 1000
-  Lev1: Level2
-  Lev2: 
+  Lev1: Level1
+  Lev2: Level2
 --- !u!50 &6983247799673419270
 Rigidbody2D:
   serializedVersion: 4

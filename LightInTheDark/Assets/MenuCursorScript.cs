@@ -7,13 +7,14 @@ using UnityEngine.SceneManagement;
 public class MenuCursorScript : MonoBehaviour
 {
     Vector2 Movement;
-    bool ButtonPressed;
+    public bool ButtonPressed;
     private Rigidbody2D RB;
     public GameMaster GM = new GameMaster();
     public float Timer;
     public float Speed;
     public string Lev1;
     public string Lev2;
+    private SaveSystem SS;
 
     IEnumerator StopPress()
     {
@@ -25,6 +26,7 @@ public class MenuCursorScript : MonoBehaviour
     void Start()
     {
         RB = GetComponent<Rigidbody2D>();
+        SS = new SaveSystem();
     }
 
     // Update is called once per frame
@@ -32,7 +34,7 @@ public class MenuCursorScript : MonoBehaviour
     {
         RB.velocity = new Vector2(Movement.x, Movement.y) * Speed * Time.deltaTime;
 
-        if (ButtonPressed && GM.Level == 1)
+        if (ButtonPressed)
         {
             StartCoroutine(StopPress());
             //Debug.Log("F*CK OFF");
@@ -56,9 +58,10 @@ public class MenuCursorScript : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        if (collision.gameObject.tag == "Play" && GM.Level == 1)
+        if (collision.gameObject.tag == "Level1" /*&& GM.Level == 1*/)
         {
             SceneManager.LoadScene(Lev1);
+            //Debug.Log(Lev2);
         }
     }
 }

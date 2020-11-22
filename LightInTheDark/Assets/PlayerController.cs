@@ -20,7 +20,19 @@ public class PlayerController : MonoBehaviour
     private Rigidbody2D RB;
     private Transform Light;
     private Animator Anim;
-    public int Level = 1;
+    private SaveSystem SS;
+    public int Level;
+    public int LevelNum = 1;
+    public string Lev1;
+    public string Lev2;
+    public string Lev3;
+    public string Lev4;
+    public string Lev5;
+    public string Lev6;
+    public string Lev7;
+    public string Lev8;
+    public string Lev9;
+    public string Lev10;
 
     // Start is called before the first frame update
     void Start()
@@ -28,7 +40,8 @@ public class PlayerController : MonoBehaviour
         RB = GetComponent<Rigidbody2D>();
         Light = GameObject.FindGameObjectWithTag("Light").GetComponent<Transform>();
         Anim = GetComponent<Animator>();
-        Level = PlayerPrefs.GetInt("Level", Level);
+        Level = PlayerPrefs.GetInt("Level", LevelNum);
+        SS = new SaveSystem();
     }
 
     // Update is called once per frame
@@ -115,6 +128,8 @@ public class PlayerController : MonoBehaviour
         {
             Level = Level + 1;
             PlayerPrefs.SetInt("Level", Level);
+            SS.LevelNum = SS.LevelNum + 1;
+            SS.Lev2 = true;
         }
     }
 

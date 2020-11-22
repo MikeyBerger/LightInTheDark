@@ -11,7 +11,9 @@ TagManager:
   - Danger
   - Gold
   - GameMaster
-  - Play
+  - Level1
+  - Level2
+  - Level3
   layers:
   - Default
   - TransparentFX

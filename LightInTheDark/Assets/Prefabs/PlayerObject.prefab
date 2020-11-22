@@ -150,6 +150,18 @@ MonoBehaviour:
   IsJumping: 0
   IsGrounded: 0
   FacingRight: 1
+  Level: 2
+  LevelNum: 1
+  Lev1: 
+  Lev2: 
+  Lev3: 
+  Lev4: 
+  Lev5: 
+  Lev6: 
+  Lev7: 
+  Lev8: 
+  Lev9: 
+  Lev10: 
 --- !u!61 &6793856322499954524
 BoxCollider2D:
   m_ObjectHideFlags: 0
