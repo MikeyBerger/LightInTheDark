@@ -55,12 +55,30 @@ public class MenuCursorScript : MonoBehaviour
         }
     }
 
+    void ActiveButton()
+    {
+        if (PlayerPrefs.GetInt("CurrentLvl") == 2)
+        {
+            SS.Lev2 = true;
+            SceneManager.LoadScene("Level2");
+        }
+        else if (PlayerPrefs.GetInt("CurrentLvl") == 3)
+        {
+
+        }
+    }
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
         if (collision.gameObject.tag == "Level1" /*&& GM.Level == 1*/)
         {
             SceneManager.LoadScene(Lev1);
+            //Debug.Log(Lev2);
+        }
+
+        if (collision.gameObject.tag == "Level2" /*&& GM.Level == 1*/)
+        {
+            SceneManager.LoadScene("Level2");
             //Debug.Log(Lev2);
         }
     }

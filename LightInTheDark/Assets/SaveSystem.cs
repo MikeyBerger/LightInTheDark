@@ -13,12 +13,15 @@ public class SaveSystem
     public bool Lev2;
     public string Level2;
     public GameObject[] Buttons;
+    private GoldScript GS;
 
     // Start is called before the first frame update
     void Start()
     {
         PC = new PlayerController();
-        SavedLevel = PlayerPrefs.GetInt("SavedLevel", LevelNum);
+        //SavedLevel = PlayerPrefs.GetInt("SavedLevel", LevelNum);
+        PlayerPrefs.SetInt("CurrentLvl", 1);
+        GS = new GoldScript();
     }
 
     // Update is called once per frame
@@ -34,7 +37,10 @@ public class SaveSystem
 
         if (Lev2)
         {
-            SceneManager.LoadScene(Level2);
+            Buttons[1].active = true;
+            Buttons[0].active = false;
+            Buttons[2].active = false;
+            //PlayerPrefs.SetInt("CurrentLvl", GS.LvlIndex + 1);
         }
     }
 }

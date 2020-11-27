@@ -94,6 +94,7 @@ GameObject:
   - component: {fileID: 6983247799673419265}
   - component: {fileID: 6983247799673419270}
   - component: {fileID: 6983247799673419271}
+  - component: {fileID: 1001014812}
   m_Layer: 0
   m_Name: MenuCursor
   m_TagString: Untagged
@@ -144,7 +145,7 @@ MonoBehaviour:
   m_ActionEvents:
   - m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 6983247799673419265}
+      - m_Target: {fileID: 1001014812}
         m_MethodName: OnMove
         m_Mode: 0
         m_Arguments:
@@ -159,7 +160,7 @@ MonoBehaviour:
     m_ActionName: CursorMap/Move[/Keyboard/w,/Keyboard/s,/Keyboard/a,/Keyboard/d,/Keyboard/upArrow,/Keyboard/downArrow,/Keyboard/leftArrow,/Keyboard/rightArrow]
   - m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 6983247799673419265}
+      - m_Target: {fileID: 1001014812}
         m_MethodName: OnPress
         m_Mode: 0
         m_Arguments:
@@ -184,7 +185,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 6983247799673419268}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 447c31eb7e3e34e1a91d31a56cab2d23, type: 3}
   m_Name: 
@@ -231,3 +232,22 @@ CircleCollider2D:
   m_Offset: {x: 0, y: 0}
   serializedVersion: 2
   m_Radius: 0.5
+--- !u!114 &1001014812
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6983247799673419268}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d85b3200674b941839db8631e64e8664, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  IsPressed: 0
+  HasCollided: 0
+  Speed: 1000
+  Buttons:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
